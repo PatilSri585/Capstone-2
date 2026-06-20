@@ -1,5 +1,5 @@
 notebooks/
-
+local_s3/
 creds.txt
 
 # Byte-compiled / optimized / DLL files
